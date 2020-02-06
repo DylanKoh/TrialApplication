@@ -10,6 +10,7 @@ using Xamarin.Forms.Xaml;
 
 namespace TrialApplication
 {
+    //Initial commit
     [XamlCompilation(XamlCompilationOptions.Compile)]
     public partial class NotePage : ContentPage
     {
